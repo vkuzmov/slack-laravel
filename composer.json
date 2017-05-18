@@ -19,7 +19,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Vkuzmov\\Slack\\Laravel\\": "src/"
+            "Maknz\\Slack\\Laravel\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
